@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+.selector {
+    background-image: url("C:\Users\emane\Desktop\f1.jfif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-size:2100px;
+}
+.toolbar {
+    position:center;
+    top: 10;
+    left: 80;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    /* background-color: #d2c019; */
+    color: rgb(255, 249, 249);
+    font-weight: 1000;
+  }
+  
+
